@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reachmeshilpa
 - 👀 I’m interested in APPLYING DATA SCIENCE (DS) CONCEPTS TO SOLVE REAL WORLD PROBLEMS
-- 🌱 I’m currently learning THE BASICS OF DS including tools such as EXCEL, SQL, PYTHON AND TABLEAU
+- 🌱 I’m currently learning THE BASICS OF DS including tools such as PYTHON, TABLEAU, SQL AND KNIME
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me reachme.shilpagupta@gmail.com
 
